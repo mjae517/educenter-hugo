@@ -29,15 +29,15 @@ name = "notice"
 weight = 4
 [[menu.footer]]
 URL = "research"
-name = "research"
+name = "Classroom snack calendars"
 weight = 1
 [[menu.footer]]
 URL = "scholarship"
-name = "scholarship"
+name = "School calendar "
 weight = 2
 [[menu.footer]]
 URL = "event"
-name = "event"
+name = "Our blog "
 weight = 3
 [[menu.main]]
 URL = "scholarship"
@@ -70,7 +70,7 @@ name = "Contact us"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Our blog "
+name = "Admissions"
 weight = 4
 [[menu.main]]
 hasChildren = true
