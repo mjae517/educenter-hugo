@@ -20,17 +20,12 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-weight = 4
+name = "School events "
+weight = 3
 [[menu.footer]]
 URL = "research"
 name = "Classroom snack calendars"
-weight = 1
+weight = 4
 [[menu.footer]]
 URL = "scholarship"
 name = "School calendar "
@@ -38,7 +33,7 @@ weight = 2
 [[menu.footer]]
 URL = "event"
 name = "Our blog "
-weight = 3
+weight = 1
 [[menu.main]]
 URL = "scholarship"
 name = "Summer Camp "
