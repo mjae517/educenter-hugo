@@ -41,27 +41,27 @@ name = "event"
 weight = 3
 [[menu.main]]
 URL = "scholarship"
-name = "scholarship"
+name = "Summer Camp "
 parent = "Our Programs "
 weight = 5
 [[menu.main]]
 URL = "event"
-name = "event"
+name = "Upper Elementary 9-12 years old"
 parent = "Our Programs "
 weight = 4
 [[menu.main]]
 URL = "notice"
-name = "notice"
+name = "Lower Elementary 6-9 years old"
 parent = "Our Programs "
 weight = 3
 [[menu.main]]
 URL = "research"
-name = "research"
+name = "Toddler Program "
 parent = "Our Programs "
 weight = 1
 [[menu.main]]
 URL = "teacher"
-name = "teacher"
+name = "Early Childhood 3-6 years old"
 parent = "Our Programs "
 weight = 2
 [[menu.main]]
