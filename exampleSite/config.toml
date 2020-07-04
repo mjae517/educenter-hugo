@@ -20,60 +20,60 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
+name = "School events "
+weight = 3
 [[menu.footer]]
 URL = "research"
-name = "research"
-[[menu.main]]
-URL = "about"
-name = "About"
+name = "Classroom snack calendars"
+weight = 4
+[[menu.footer]]
+URL = "scholarship"
+name = "School calendar "
+weight = 2
+[[menu.footer]]
+URL = "event"
+name = "Our blog "
 weight = 1
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
 URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
+name = "Summer Camp "
+parent = "Our Programs "
 weight = 4
 [[menu.main]]
+URL = "notice"
+name = "Lower and Upper Elementary 6-12 years old"
+parent = "Our Programs "
+weight = 3
+[[menu.main]]
+URL = "research"
+name = "Toddler Program "
+parent = "Our Programs "
+weight = 1
+[[menu.main]]
+URL = "teacher"
+name = "Early Childhood 3-6 years old"
+parent = "Our Programs "
+weight = 2
+[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contact us"
 weight = 5
+[[menu.main]]
+URL = "blog"
+name = "Admissions"
+weight = 4
+[[menu.main]]
+hasChildren = true
+name = "Our Programs "
+weight = 3
+[[menu.main]]
+URL = "course"
+name = "Why Montessori? "
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "Our Mission "
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
