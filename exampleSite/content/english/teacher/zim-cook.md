@@ -2,7 +2,7 @@
 title: Joji Escanilla
 bg_image: "/images/children-doing-gb.jpg"
 description: 'Executive Director '
-image: images/teachers/teacher-1.jpg
+image: ''
 course: Photography
 bio: ''
 interest: []
