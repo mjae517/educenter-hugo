@@ -2,8 +2,7 @@
 title: About Us
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: 'Skokie Montessori School established itself in the Skokie area community
-  in 2003. '
+description: ''
 
 ---
 ## ABOUT US 
