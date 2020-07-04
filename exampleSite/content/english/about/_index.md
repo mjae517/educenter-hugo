@@ -5,15 +5,18 @@ image: images/about/about-page.jpg
 description: 'Skokie Montessori School '
 
 ---
-## ABOUT OUR JOURNY
+## ABOUT US
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+**Dedicated to following the child since 2003**
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+A small school with big learning for children ages 2 to 12.
+
+At Skokie Montessori we offer an outstanding Montessori education and one of a kind family experience. We are highly rated for our diverse and substantial programs, secure and engaging learning environments, qualified and experienced staff, and for parent satisfaction.
+
+All classrooms at Skokie Montessori School practice the Montessori philosophy and approach to learning, led by Montessori trained teachers and staff. Our four multi-age classrooms are equipped with high-quality, hands-on equipment and materials. We have more than 75 years of experience educating early toddlers in our 2 to 3 year old program, 3 to 6 year old students including Elementary students from first through sixth grade.
+
+## We also offer flexible tuition payment options.
+
+We would be happy to answer any of your questions. We provide school tours where you can observe our Montessori classrooms in action. We also offer an opportunity for your child to visit and spend time in a Montessori classroom with one of our teachers.
+
+### Enrollment for the 2020 / 2021 school year is open!
