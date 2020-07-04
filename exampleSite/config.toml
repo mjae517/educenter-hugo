@@ -1,4 +1,4 @@
-baseURL = "skokiemontessori.com"
+baseURL = "https://skokiemontessori.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
