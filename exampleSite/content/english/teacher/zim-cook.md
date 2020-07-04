@@ -1,64 +1,15 @@
 ---
-title: "Zim Cook"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# teacher portrait
-image: "images/teachers/teacher-1.jpg"
-# course
-course: "Photography"
-# biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
-# interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
-# contact info
-contact:
-  # contact item loop
-  - name : "clarkmalik@email.com"
-    icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+title: Joji Escanilla
+bg_image: "/images/children-doing-gb.jpg"
+description: 'Executive Director '
+image: images/teachers/teacher-1.jpg
+course: Photography
+bio: ''
+interest: []
+contact: []
+type: ''
 
-  # contact item loop
-  - name : "+12 034 5876"
-    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-# type
-type: "teacher"
 ---
-
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Hello! As one of the founders of our school I am happy to welcome you! My desire to educate children utilizing Montessori teaching methods has been my personal and professional passion for more than 30 years. I spent 20 years with the NorthShore Montessori Schools as founder of their elementary Program and supervisor and teacher for 8 years. I began in 1992 as a Preschool Directress and have been an advocate and lifelong learner, teaching the unique philosophy of Maria Montessori for more than 31 years. I earned a Master of Arts degree in Teaching and Leadership from Saint Xavier University and earned a Bachelor of Science degree in Commerce. I Am AMS certified for 3-6, 6-9, and 9-12 year olds. Both of my children were Montessori students beginning from early childhood through the sixth grade. As a mother I see how my children developed strong self- motivation, awareness in managing their time and schedules independently and strong problem solving skills.
