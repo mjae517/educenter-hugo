@@ -1,4 +1,4 @@
-baseURL = "https://skokiemontessorischool.com"
+baseURL = "skokiemontessori.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
