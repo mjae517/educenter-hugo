@@ -11,6 +11,7 @@ duration: ''
 weekly: ''
 fee: ''
 apply_url: ''
+draft: true
 
 ---
 ## ABOUT US
