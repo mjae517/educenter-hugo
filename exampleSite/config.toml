@@ -55,10 +55,6 @@ name = "Toddler Program "
 parent = "Our Programs "
 weight = 1
 [[menu.main]]
-URL = "course"
-name = "Why Montessori? "
-weight = 2
-[[menu.main]]
 hasChildren = true
 name = "Our Programs "
 weight = 3
