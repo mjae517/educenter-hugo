@@ -1,8 +1,16 @@
 ---
 title: About Us
 bg_image: "/images/children-doing-gb.jpg"
-image: images/about/about-page.jpg
+image: "/images/francis-sensorial-work.jpg"
 description: 'Skokie Montessori School '
+type: course
+date: 
+category: ''
+teacher: ''
+duration: ''
+weekly: ''
+fee: ''
+apply_url: ''
 
 ---
 ## ABOUT US
