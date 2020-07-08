@@ -1,5 +1,5 @@
 baseURL = "https://skokiemontessori.netlify.app"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
@@ -75,17 +75,17 @@ URL = "about"
 name = "Our Mission "
 weight = 1
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "8401 N. Karlov Ave"
 author = "Themefisher"
-contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+contact_form_action = "# 847 679 4614"
+description = "For more information, give us a call or email. "
+email = "staff@"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+8476686239"
 top_header = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -123,19 +123,3 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 icon = "ti-facebook"
 link = "#"
 title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
