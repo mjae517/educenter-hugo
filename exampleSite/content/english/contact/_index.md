@@ -1,10 +1,21 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
----
+title: About Us
+bg_image: ''
+description: ''
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt. Dolore, labore. Accusamus nulla sed cum aliquid exercitationem debitis error harum porro maxime quo iusto aliquam dicta modi earum fugiat, vel possimus commodi, deleniti et veniam, fuga ipsum praesentium. Odit unde optio nulla ipsum quae obcaecati! Quod esse natus quibusdam asperiores quam vel, tempore itaque architecto ducimus expedita
+---
+## ABOUT US
+
+**Dedicated to following the child since 2003**
+
+A small school with big learning for children ages 2 to 12.
+
+At Skokie Montessori we offer an authentic Montessori education and one of a kind family experience. We are highly rated for our diverse and substantial programs, secure and engaging learning environments, qualified and experienced staff, and for parent satisfaction.
+
+All classrooms at Skokie Montessori School are led by Montessori trained teachers. Our four multi-age classrooms are equipped with high-quality, hands-on equipment and materials. We have more than 75 years of experience in Montessori educating toddlers thru elementary students.
+
+## Enrollment for the 2020-2021 school year is open!
+
+### _We also offer flexible tuition payment options._
+
+We would be happy to answer your questions. We provide school tours where you can observe our Montessori classrooms in action. We also offer an opportunity for your child to visit and spend time in a Montessori classroom with one of our teachers.
