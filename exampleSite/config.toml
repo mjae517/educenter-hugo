@@ -19,53 +19,25 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "event"
-name = "Our blog "
+[menu.main]
+URL = "about"
+name = "Our Mission "
 weight = 1
 [[menu.footer]]
-URL = "scholarship"
-name = "School calendar "
-weight = 2
+name = "School events "
+weight = 3
 [[menu.footer]]
 URL = "research"
 name = "Classroom snack calendars"
 weight = 4
 [[menu.footer]]
-name = "School events "
-weight = 3
-[[menu.main]]
 URL = "scholarship"
-name = "Summer Camp "
-parent = "Our Programs "
-weight = 4
-[[menu.main]]
-URL = "notice"
-name = "Lower and Upper Elementary 6-12 years old"
-parent = "Our Programs "
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "Early Childhood 3-6 years old"
-parent = "Our Programs "
+name = "School calendar "
 weight = 2
-[[menu.main]]
-URL = "research"
-name = "Toddler Program "
-parent = "Our Programs "
+[[menu.footer]]
+URL = "event"
+name = "Our blog "
 weight = 1
-[[menu.main]]
-hasChildren = true
-name = "Our Programs "
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Admissions"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact us"
-weight = 5
 [params]
 address = "8401 N. Karlov Ave"
 author = "Themefisher"
