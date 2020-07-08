@@ -2,7 +2,7 @@
 title: About Us
 bg_image: "/images/children-doing-gb.jpg"
 image: "/images/francis-sensorial-work.jpg"
-description: 'Skokie Montessori School '
+description: 'Where big learning happens '
 type: course
 date: 
 category: ''
